@@ -1,6 +1,6 @@
 # win-onlyonekeyboardlayout
 Force Microsoft Windows to use only one keyboard layout every 5 seconds.
-This is code from an unknown AHK forums post, what used caps lock to toggle between russian and english keyboard layout. I bodged it to fit my needs.
+<br>This is code from an unknown AHK forums post, what used caps lock to toggle between russian and english keyboard layout. I bodged it to fit my needs.
 
 ## Prerequisites
  - Have [AutoHotkey](https://www.autohotkey.com/) installed.
