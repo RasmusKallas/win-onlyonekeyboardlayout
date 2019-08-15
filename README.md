@@ -1,3 +1,5 @@
+As I use Linux on a daily basis, project is passively looking for a new maintainer. Feel free to open an issue, if you see fit.
+
 # win-onlyonekeyboardlayout
 Force Microsoft Windows to use only one keyboard layout every 5 seconds.
 <br>This is code from an unknown AHK forums post, what used caps lock to toggle between russian and english keyboard layout. I bodged it to fit my needs.
